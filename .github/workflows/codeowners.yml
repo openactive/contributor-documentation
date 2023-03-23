@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: gagoar/codeowners-generator@v1.1
+      - uses: gagoar/codeowners-generator@v2.2.0
         with:
           output: .github/CODEOWNERS
           use-maintainers: true

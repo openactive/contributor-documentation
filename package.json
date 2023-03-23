@@ -1,0 +1,8 @@
+{
+  "name": "contributor-documentation",
+  "description": "Documentation for contributors to OpenActive's open source infrastructure",
+  "maintainers": [
+    "@nickevansuk"
+  ],
+  "license": "MIT"
+}
